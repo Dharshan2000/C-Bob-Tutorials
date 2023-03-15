@@ -1,0 +1,15 @@
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.csproj.AssemblyReference.cache
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.AssemblyInfoInputs.cache
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.AssemblyInfo.cs
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\bin\Debug\net6.0\SimpleMethod.exe
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\bin\Debug\net6.0\SimpleMethod.deps.json
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\bin\Debug\net6.0\SimpleMethod.runtimeconfig.json
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\bin\Debug\net6.0\SimpleMethod.dll
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\bin\Debug\net6.0\SimpleMethod.pdb
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.dll
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\refint\SimpleMethod.dll
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.pdb
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\SimpleMethod.genruntimeconfig.cache
+C:\Users\Dharshan\source\repos\SimpleMethod\SimpleMethod\obj\Debug\net6.0\ref\SimpleMethod.dll
