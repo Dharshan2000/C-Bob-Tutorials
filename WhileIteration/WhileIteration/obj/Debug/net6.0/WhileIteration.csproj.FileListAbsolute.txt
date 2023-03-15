@@ -1,0 +1,15 @@
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.csproj.AssemblyReference.cache
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.AssemblyInfoInputs.cache
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.AssemblyInfo.cs
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\bin\Debug\net6.0\WhileIteration.exe
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\bin\Debug\net6.0\WhileIteration.deps.json
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\bin\Debug\net6.0\WhileIteration.runtimeconfig.json
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\bin\Debug\net6.0\WhileIteration.dll
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\bin\Debug\net6.0\WhileIteration.pdb
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.dll
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\refint\WhileIteration.dll
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.pdb
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\WhileIteration.genruntimeconfig.cache
+C:\Users\Dharshan\source\repos\WhileIteration\WhileIteration\obj\Debug\net6.0\ref\WhileIteration.dll
