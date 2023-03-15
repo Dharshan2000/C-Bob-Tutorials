@@ -1,0 +1,12 @@
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.csproj.AssemblyReference.cache
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.AssemblyInfoInputs.cache
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.AssemblyInfo.cs
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\bin\Release\net6.0\MyCodelibrary.deps.json
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\bin\Release\net6.0\MyCodelibrary.dll
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\bin\Release\net6.0\MyCodelibrary.pdb
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.dll
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\refint\MyCodelibrary.dll
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\MyCodelibrary.pdb
+C:\Users\Dharshan\source\repos\MyCodelibrary\MyCodelibrary\obj\Release\net6.0\ref\MyCodelibrary.dll
