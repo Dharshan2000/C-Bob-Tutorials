@@ -1,0 +1,15 @@
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.AssemblyReference.cache
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfoInputs.cache
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfo.cs
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.CoreCompileInputs.cache
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\bin\Debug\net6.0\SimpleClass.exe
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\bin\Debug\net6.0\SimpleClass.deps.json
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\bin\Debug\net6.0\SimpleClass.runtimeconfig.json
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\bin\Debug\net6.0\SimpleClass.dll
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\bin\Debug\net6.0\SimpleClass.pdb
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.dll
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\refint\SimpleClass.dll
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.pdb
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\SimpleClass.genruntimeconfig.cache
+C:\Users\Dharshan\source\repos\SimpleClass\SimpleClass\obj\Debug\net6.0\ref\SimpleClass.dll
