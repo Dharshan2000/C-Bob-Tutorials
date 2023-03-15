@@ -1,0 +1,15 @@
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\bin\Debug\net6.0\Foriteration.exe
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\bin\Debug\net6.0\Foriteration.deps.json
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\bin\Debug\net6.0\Foriteration.runtimeconfig.json
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\bin\Debug\net6.0\Foriteration.dll
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\bin\Debug\net6.0\Foriteration.pdb
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.csproj.AssemblyReference.cache
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.AssemblyInfoInputs.cache
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.AssemblyInfo.cs
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.csproj.CoreCompileInputs.cache
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.dll
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\refint\Foriteration.dll
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.pdb
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\Foriteration.genruntimeconfig.cache
+C:\Users\Dharshan\source\repos\Foriteration\Foriteration\obj\Debug\net6.0\ref\Foriteration.dll
